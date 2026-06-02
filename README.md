@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there im Ali :)
 
 <!--
 **amelfia/amelfia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/4e9e48e3-e320-45fd-929c-ffb8a00006af/thumbnail" >
+</p>
